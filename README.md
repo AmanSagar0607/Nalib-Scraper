@@ -156,4 +156,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**GitHub Repository:** [Nalib Scraper](https://github.com/AmanSagar0607/Nalib-Scraper)# Nalib-Scraper
+**GitHub Repository:** [Nalib Scraper](https://github.com/AmanSagar0607/Nalib-Scraper)
