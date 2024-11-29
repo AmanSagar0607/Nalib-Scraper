@@ -1,0 +1,12 @@
+{
+  "name": "nailib-scraper",
+  "private": true,
+  "scripts": {
+    "start": "python3 src/main.py",
+    "test": "python3 -m pytest tests/",
+    "install-deps": "python3 -m pip install --user -r requirements.txt"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
